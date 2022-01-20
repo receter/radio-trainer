@@ -1,0 +1,65 @@
+.startButton {
+    border: 0;
+    border-radius: 0.1em;
+    background: #4c7ea8;
+    color: #0b2c42;
+    padding: 0.7em 0.7em;
+    font-size: 1em;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.startButton:hover {
+    background: #5683ab;
+}
+
+.buttonCancel {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    border: 0;
+    border-radius: 0.1em;
+    background: #182d3f;
+    color: #3f6681;
+    padding: 0.7em 0.7em;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.buttonContinue {
+    border: 0;
+    border-radius: 0.1em;
+    background: #4c7ea8;
+    color: #0b2c42;
+    padding: 0.4em 0.7em 0.45em;
+    font-size: 1em;
+    line-height: 1;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.buttonPrev {
+    border: 0;
+    border-radius: 0.1em;
+    background: none;
+    color: #4c7ea8;
+    padding: 0.4em 0.7em 0.45em;
+    font-size: 1em;
+    line-height: 1;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.sender {
+    color: #313d54;
+}
+
+.message {
+    font-size: 1.25em;
+    margin: 1em 1em;
+}
